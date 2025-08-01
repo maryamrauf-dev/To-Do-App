@@ -8,9 +8,6 @@ Features
 - Delete tasks instantly
 - Designed with a warm pink-lavender UI using `Material 3`
 
-## Preview
-
-> Coming soon — screenshots or screen recording.
 
 ##  Built With
 
